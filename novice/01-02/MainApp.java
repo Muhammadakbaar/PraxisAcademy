@@ -4,7 +4,5 @@ public class MainApp {
 
         data.a = 5;
         System.out.println(data.a);
-
-    }
-    
+    }  
 }
